@@ -1,7 +1,6 @@
 # AQUAFLOW
 Sistema de monitoreo inteligente basado en IoT y XGBoost para la detección temprana y clasificación multiclase de riesgos de fugas de agua.
 
-Descripción
 Este proyecto utiliza sensores IoT y un modelo de Machine Learning basado en XGBoost para identificar y clasificar niveles de riesgo de fugas de agua.
 
 Tecnologías
